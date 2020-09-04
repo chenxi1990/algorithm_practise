@@ -26,4 +26,7 @@ public class BubbleSort {
         arry[j] = temp;
     }
 
+    public static void main(String[] args) {
+        System.out.println();
+    }
 }
